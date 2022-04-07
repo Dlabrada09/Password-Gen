@@ -1,4 +1,4 @@
-// Assignment code here
+// variables containing different parts of the charset
 var nums = "0123456789";
 var spec = "()!@#$%^&*_+=-{}][/?''";
 var lower = "abcdefghijklmnopqrstuvwxyz";
